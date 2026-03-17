@@ -1,0 +1,20 @@
+FOR MULTIPLE LINE PRINT STATEMENTS
+
+print('''
+qwerty
+ertyui
+yuio
+''')
+
+-----------------------------------------------
+
+FOR SINGLE-LINE COMMENTS IN PYTHON
+
+# this is used for COMMENTS
+
+-----------------------------------------------
+
+LOWER AND UPPERCASE ISSUE:
+
+variable = input("Prompt the user for an answer").lower()
+#--> this make sures no matter of the casing from the user, the response collected is converted in lowercasing and you can write the program based on lowercase responses.
